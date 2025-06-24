@@ -1,2 +1,2 @@
 # filmoteca
-Sistema en C++ para registrar, consultar y gestionar una colección personal de películas con control de préstamos.
+Sistema de gestión de videoteca en C++ para registrar, modificar, consultar y eliminar películas, con control de estado (disponible/prestada).
